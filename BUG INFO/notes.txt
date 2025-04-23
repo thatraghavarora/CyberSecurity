@@ -1,0 +1,3 @@
+CyberSecurity Notes - Day 1
+- Footprinting
+- Reconnaissance
